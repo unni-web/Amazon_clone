@@ -3,13 +3,16 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
+  
+}
+body{
+  background-color: #d6d6d6;
 }
 
-body {
+header {
   background-color: #C1C1C1;
   color: white;
 }
-
 .top-header {
   display: flex;
   justify-content: space-between;
@@ -117,10 +120,12 @@ body {
   overflow-y: hidden;
   /* position:absolute; */
   display: flex;
+  margin: 5px;
+  margin-top: 0%;
 }
 
 .scroll img {
-  height: 500px;
+  height: 520px;
 }
 
 /* .banner{
@@ -146,7 +151,7 @@ body {
   font-size: 16px;
   font-family: "Amazon Ember", Arial, sans-serif;
   left: 5%;
-  
+
 }
 
 .bdiv2 {
@@ -284,8 +289,7 @@ body {
   color: #2162a1;
   font-size: 10px;
   left: 5%;
-    line-height: 18px
-
+  line-height: 18px
 }
 
 
@@ -393,8 +397,7 @@ body {
   color: #2162a1;
   font-size: 10px;
   left: 5%;
-    line-height: 18px
-
+  line-height: 18px
 }
 
 
@@ -502,8 +505,7 @@ body {
   color: #2162a1;
   font-size: 10px;
   left: 5%;
-    line-height: 18px
-
+  line-height: 18px
 }
 
 
@@ -613,6 +615,39 @@ body {
   color: #2162a1;
   font-size: 10px;
   left: 5%;
-    line-height: 18px
+  line-height: 18px
+}
 
+
+/* scroll2 start */
+
+.scroll2 {
+  height: 250px;
+  width: 1190px;
+  background-color: white;
+  position: relative;
+  margin: 10px;
+   overflow-x: scroll;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: space-around;
+  top: 10%;
+}
+.sh2{
+ background-color: white;
+ height: 40px;
+ width: 100%;
+ position: absolute;
+ display: flex;
+}
+.sh2 h2{
+  color: #0f1111;
+  font-family: "Amazon Ember", Arial, sans-serif;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.scroll2 img{
+  height: 180px;
+  margin-top: 4%;
 }
