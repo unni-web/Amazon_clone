@@ -881,6 +881,7 @@ header {
   font-family: "Amazon Ember", Arial, sans-serif;
   line-height: 18px
 }
+
 .b2div4 h2 {
   color: #0f1111;
   display: flex;
@@ -888,7 +889,8 @@ header {
   margin-top: 13px;
   margin-left: 10px;
 }
-.b2div4 img{
+
+.b2div4 img {
   display: flex;
   height: 150px;
   width: 150px;
@@ -896,6 +898,7 @@ header {
   top: 90px;
   left: 20%;
 }
+
 .b2div4 p {
   color: #0f1111;
   display: flex;
@@ -907,6 +910,7 @@ header {
 
 
 }
+
 .b2div4 p2 {
   position: absolute;
   top: 292px;
@@ -934,7 +938,7 @@ header {
 
 /* banner3 */
 
-.ba3{
+.ba3 {
   height: 200px;
   width: 750px;
   background-color: #f3f3f3;
@@ -960,6 +964,7 @@ header {
   display: flex;
   justify-content: space-around;
   top: 565px;
+  cursor: pointer;
 }
 
 .sh3 {
@@ -983,4 +988,352 @@ header {
   margin-top: 4%;
 }
 
+
+
+/* end1 */
+
+.end1 {
+  height: 40px;
+  width: 100%;
+  background-color: #37475A;
+  position: absolute;
+  top: 1735px;
+  align-content: center;
+  /* justify-content: center; */
+}
+
+.end1 button {
+  background-color: #37475A;
+  border: none;
+  color: whitesmoke;
+  margin: 50%;
+  margin-top: 0%;
+  margin-right: 0%;
+  margin-bottom: 0%;
+  font-family: "Amazon Ember", Arial, sans-serif;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+
+/* end2 */
+
+.end2 {
+  background-color: #232F3E;
+  height: 310px;
+  width: 100%;
+  top: 1775px;
+  position: absolute;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  justify-content: space-between;
+  color: #C1C1C1;
+  font-family: "Amazon Ember", Arial, sans-serif;
+
+}
+
+.end2 .end2div1 {
+  height: 440px;
+  width: 200px;
+  margin-left: 10%;
+  margin-top: 50px;
+  /* background-color: white */
+}
+
+.end2div1 h2 {
+  position: absolute;
+  font-size: 16px;
+  color: white;
+}
+
+.end2div1 a1 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 80px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.end2div1 a2 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 100px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div1 a3 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 120px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div1 a4 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 140px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2 .end2div2 {
+  height: 440px;
+  width: 200px;
+  margin-top: 50px;
+
+  /* background-color: white */
+}
+
+.end2div2 h2 {
+  position: absolute;
+  font-size: 16px;
+  color: white;
+
+}
+
+.end2div2 a1 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 80px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div2 a2 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 100px;
+  font-size: 12px;
+  cursor: pointer;
+
+
+}
+
+.end2div2 a3 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 120px;
+  font-size: 12px;
+  cursor: pointer;
+
+
+}
+
+.end2 .end2div3 {
+  height: 440px;
+  width: 200px;
+  margin-top: 50px;
+
+  /* background-color: white */
+}
+
+.end2div3 h2 {
+  position: absolute;
+  font-size: 16px;
+  color: white;
+
+}
+
+.end2div3 a1 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 80px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div3 a2 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 100px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div3 a3 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 120px;
+  font-size: 12px;
+  cursor: pointer;
+
+
+}
+
+.end2div3 a4 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 140px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div3 a5 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 160px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div3 a6 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 180px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div3 a7 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 200px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div3 a8 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 220px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div3 a9 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 240px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+
+.end2 .end2div4 {
+  height: 440px;
+  width: 200px;
+  margin-right: 10%;
+  margin-top: 50px;
+
+  /* background-color: white */
+}
+
+.end2div4 h2 {
+  position: absolute;
+  font-size: 16px;
+  color: white;
+
+}
+
+.end2div4 a1 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 80px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div4 a2 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 100px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div4 a3 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 120px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div4 a4 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 140px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div4 a5 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 160px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+.end2div4 a6 {
+  text-decoration: none;
+  position: absolute;
+  /* display: flex; */
+  top: 180px;
+  font-size: 12px;
+  cursor: pointer;
+
+}
+
+
+/* end3 */
+
+.end3 {
+  height: 120px;
+  width: 100%;
+  background-color: #232F3E;
+  top: 2086px;
+  position: absolute;
+}
+
+.end3 img {
+  height: 40px;
+  width: 80px;
+  /* margin: 50px; */
+  /* margin-right: 30px; */
+  margin-left: 50%;
+  margin-top: 40px;
+
+}
 
